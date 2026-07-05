@@ -1,0 +1,70 @@
+[
+  {
+    "id": "hacker-news-frontpage",
+    "name": "Hacker News Frontpage",
+    "type": "rss",
+    "url": "https://hnrss.org/frontpage",
+    "tags": ["software-engineering", "developer-news", "open-source"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "pragmatic-engineer",
+    "name": "The Pragmatic Engineer",
+    "type": "substack-rss",
+    "url": "https://newsletter.pragmaticengineer.com/feed",
+    "publicationName": "The Pragmatic Engineer",
+    "tags": ["software-engineering", "engineering-management", "systems"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "cloudflare-blog",
+    "name": "Cloudflare Blog",
+    "type": "rss",
+    "url": "https://blog.cloudflare.com/rss/",
+    "tags": ["cloud", "infrastructure", "security"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "aws-news-blog",
+    "name": "AWS News Blog",
+    "type": "rss",
+    "url": "https://aws.amazon.com/blogs/aws/feed/",
+    "tags": ["cloud", "aws", "infrastructure"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "martin-fowler",
+    "name": "Martin Fowler",
+    "type": "rss",
+    "url": "https://martinfowler.com/feed.atom",
+    "tags": ["software-engineering", "architecture", "refactoring"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "netflix-tech-blog",
+    "name": "Netflix TechBlog",
+    "type": "rss",
+    "url": "https://netflixtechblog.com/feed",
+    "tags": ["distributed-systems", "platform-engineering", "performance"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "engineering-seed-links",
+    "name": "Engineering Seed Links",
+    "type": "manual",
+    "tags": ["manual", "software-engineering", "deep-dives"],
+    "reliabilityScore": 8,
+    "items": [
+      {
+        "url": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08",
+        "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+        "summary": "A deep technical article on recommender systems and large-scale generative serving."
+      },
+      {
+        "url": "https://www.infoq.com/news/2026/07/opentelemetry-cncf-maturity/",
+        "title": "OpenTelemetry Graduates to CNCF's Highest Maturity Level",
+        "summary": "A practical engineering news item covering observability maturity and adoption."
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sparktoro-blog",
+    "name": "SparkToro Blog",
+    "type": "rss",
+    "url": "https://sparktoro.com/blog/feed",
+    "tags": ["b2b-marketing", "audience-research", "creator-economy"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "social-media-examiner",
+    "name": "Social Media Examiner",
+    "type": "rss",
+    "url": "https://www.socialmediaexaminer.com/feed/",
+    "tags": ["social-media", "linkedin", "creator-economy"],
+    "reliabilityScore": 8
+  },
+  {
+    "id": "hubspot-marketing",
+    "name": "HubSpot Marketing Blog",
+    "type": "rss",
+    "url": "https://blog.hubspot.com/marketing/rss.xml",
+    "tags": ["content-marketing", "b2b-marketing", "strategy"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "creator-science",
+    "name": "Creator Science",
+    "type": "rss",
+    "url": "https://creatorscience.com/feed",
+    "tags": ["creator-economy", "monetization", "audience-growth"],
+    "reliabilityScore": 8
+  },
+  {
+    "id": "lennys-newsletter",
+    "name": "Lenny's Newsletter",
+    "type": "substack-rss",
+    "url": "https://www.lennysnewsletter.com/feed",
+    "publicationName": "Lenny's Newsletter",
+    "tags": ["b2b", "saas", "growth", "creator-economy"],
+    "reliabilityScore": 9
+  },
+  {
+    "id": "b2b-creator-seed-links",
+    "name": "B2B Creator Seed Links",
+    "type": "manual",
+    "tags": ["manual", "creator-economy", "examples"],
+    "reliabilityScore": 7,
+    "items": [
+      {
+        "url": "https://creatorscience.com/why-people-arent-buying/",
+        "title": "Why people aren't buying (and how to fix it)",
+        "summary": "Trust, positioning, and creator business lessons relevant to B2B creators."
+      },
+      {
+        "url": "https://sparktoro.com/blog/how-wed-market-to-software-developers-at-startups/",
+        "title": "How We'd Market to Software Developers at Startups",
+        "summary": "Practical example of niche audience strategy and creator-style B2B marketing."
+      }
+    ]
+  }
+]
